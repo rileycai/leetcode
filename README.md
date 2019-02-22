@@ -10,8 +10,8 @@
 
 ---
 
-| 编号 | 题目 | 源代码 | 解释 | 难度 |
-|:---:|:---:|:---:|:---:|:---:|
-| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [JavaScript](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Two%20Sum/two-sum.js) | [Explanation](https://github.com/hanzichi/leetcode/blob/master/Algorithms/Two%20Sum/README.md) | Easy |
+| 编号 | 题目 | 源代码 | 难度 |
+|:---:|:---:|:---:|:---:|
+| 1 | [两数之和](https://leetcode-cn.com/problems/two-sum/) | [JavaScript](https://github.com/zhenzhencai/leetcode/blob/master/Algorithms/001.js) | Easy |
 
 Copyright (c) 2019-present ZhenzhenCai
