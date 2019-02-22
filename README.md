@@ -6,7 +6,12 @@
 </p>
 
 # leetcode
-LeetCode solutions with JavaScript
+力扣（Leetcode）编程题，JavaScript版本。
 
+---
+
+| 编号 | 中文题目 | 英文题目 | 源代码 | 难度 |
+|:---:|:---:|:---:|:---:|:---:|
+| 1 | [两数之和](https://leetcode-cn.com/problems/two-sum/) | Two Sum | [代码](https://github.com/zhenzhencai/leetcode/blob/master/Algorithms/001.js) | 简单 |
 
 Copyright (c) 2019-present ZhenzhenCai
