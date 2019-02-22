@@ -10,5 +10,8 @@
 
 ---
 
+| 编号 | 题目 | 源代码 | 解释 | 难度 |
+|:---:|:---:|:---:|:---:|:---:|
+| 754 | [Cracking the Safe](https://leetcode.com/problems/cracking-the-safe/) | | | Hard |
 
 Copyright (c) 2019-present ZhenzhenCai
