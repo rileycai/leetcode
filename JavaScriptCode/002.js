@@ -21,7 +21,7 @@ var addTwoNumbers = function(l1, l2) {
   
       var sum = a + b + add;
       add = ~~(sum / 10);
-      console.log(add);
+    //   console.log(add);
       var node = new ListNode(sum % 10);
   
       if (!ans)
@@ -47,4 +47,4 @@ var addTwoNumbers = function(l1, l2) {
   };
 
 
-  addTwoNumbers([2,4,3],[5,6,4]);
+//   addTwoNumbers([2,4,3],[5,6,4]);
