@@ -14,6 +14,7 @@
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | 1 | [两数之和](https://leetcode-cn.com/problems/two-sum/) | Two Sum | | [代码](https://github.com/zhenzhencai/leetcode/blob/master/JavaScriptCode/001.js) | 简单 |
 | 2 | [两数相加](https://leetcode-cn.com/problems/add-two-numbers/) | Add Two Numbers | | [代码](https://github.com/zhenzhencai/leetcode/blob/master/JavaScriptCode/002.js) | 中等 |
-| 2 | [无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/) | Longest Substring Without Repeating Characters | | [代码](https://github.com/zhenzhencai/leetcode/blob/master/JavaScriptCode/003.js) | 中等 |
+| 3 | [无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/) | Longest Substring Without Repeating Characters | | [代码](https://github.com/zhenzhencai/leetcode/blob/master/JavaScriptCode/003.js) | 中等 |
+| 5 | [最长回文子串](https://leetcode-cn.com/problems/longest-palindromic-substring/) | Longest Palindromic Substring | [马拉车算法](https://cloud.tencent.com/developer/news/312855)| [代码](https://github.com/zhenzhencai/leetcode/blob/master/JavaScriptCode/005.js) | 中等 |
 
 Copyright (c) 2019-present ZhenzhenCai
