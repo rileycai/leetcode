@@ -17,5 +17,9 @@
 | 3 | [无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/) | Longest Substring Without Repeating Characters | | [代码](https://github.com/zhenzhencai/leetcode/blob/master/JavaScriptCode/003.js) | 中等 |
 | 5 | [最长回文子串](https://leetcode-cn.com/problems/longest-palindromic-substring/) | Longest Palindromic Substring | [马拉车算法](https://cloud.tencent.com/developer/news/312855)| [代码](https://github.com/zhenzhencai/leetcode/blob/master/JavaScriptCode/005.js) | 中等 |
 | 6 | [Z字形变换](https://leetcode-cn.com/problems/zigzag-conversion/) | ZigZag Conversion | | [代码](https://github.com/zhenzhencai/leetcode/blob/master/JavaScriptCode/006.js) | 中等 |
+| 7 | [整数反转](https://leetcode-cn.com/problems/reverse-integer/) | Reverse Integer | | [代码](https://github.com/zhenzhencai/leetcode/blob/master/JavaScriptCode/007.js) | 简单 |
+| 8 | [字符串转换整数 (atoi)](https://leetcode-cn.com/problems/string-to-integer-atoi/) | String to Integer (atoi) | | [代码](https://github.com/zhenzhencai/leetcode/blob/master/JavaScriptCode/008.js) | 中等 |
+| 9 | [回文数](https://leetcode-cn.com/problems/palindrome-number/) | Palindrome Number | | [代码](https://github.com/zhenzhencai/leetcode/blob/master/JavaScriptCode/009.js) | 简单 |
 
+#
 Copyright (c) 2019-present ZhenzhenCai
