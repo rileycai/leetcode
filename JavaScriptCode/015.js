@@ -1,3 +1,6 @@
+// Source : https://leetcode-cn.com/problems/3sum/
+// Author : Zhenzhen Cai
+// Date   : 2019-02-26
 /**
  * @param {number[]} nums
  * @return {number[][]}
