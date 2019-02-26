@@ -20,6 +20,10 @@
 | 7 | [整数反转](https://leetcode-cn.com/problems/reverse-integer/) | Reverse Integer | | [代码](https://github.com/zhenzhencai/leetcode/blob/master/JavaScriptCode/007.js) | 简单 |
 | 8 | [字符串转换整数 (atoi)](https://leetcode-cn.com/problems/string-to-integer-atoi/) | String to Integer (atoi) | | [代码](https://github.com/zhenzhencai/leetcode/blob/master/JavaScriptCode/008.js) | 中等 |
 | 9 | [回文数](https://leetcode-cn.com/problems/palindrome-number/) | Palindrome Number | | [代码](https://github.com/zhenzhencai/leetcode/blob/master/JavaScriptCode/009.js) | 简单 |
+| 11 | [盛最多水的容器](https://leetcode-cn.com/problems/container-with-most-water/) | Container With Most Water | | [代码](https://github.com/zhenzhencai/leetcode/blob/master/JavaScriptCode/011.js) | 中等 |
+| 12 | [整数转罗马数字](https://leetcode-cn.com/problems/integer-to-roman/) | Integer to Roman | | [代码](https://github.com/zhenzhencai/leetcode/blob/master/JavaScriptCode/012.js) | 中等 |
+| 13 | [罗马数字转整数](https://leetcode-cn.com/problems/roman-to-integer/) | Roman to Integer | | [代码](https://github.com/zhenzhencai/leetcode/blob/master/JavaScriptCode/013.js) | 简单 |
+| 14 | [最长公共子串](https://leetcode-cn.com/problems/longest-common-prefix/) | Longest Common Prefix | | [代码](https://github.com/zhenzhencai/leetcode/blob/master/JavaScriptCode/014.js) | 简单 |
 
 #
 Copyright (c) 2019-present ZhenzhenCai
