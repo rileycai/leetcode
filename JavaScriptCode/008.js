@@ -1,3 +1,6 @@
+// Source : https://leetcode-cn.com/problems/string-to-integer-atoi/
+// Author : Zhenzhen Cai
+// Date   : 2019-02-25
 
 /**
  * @param {string} str
