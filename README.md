@@ -24,6 +24,10 @@
 | 12 | [整数转罗马数字](https://leetcode-cn.com/problems/integer-to-roman/) | Integer to Roman | | [代码](https://github.com/zhenzhencai/leetcode/blob/master/JavaScriptCode/012.js) | 中等 |
 | 13 | [罗马数字转整数](https://leetcode-cn.com/problems/roman-to-integer/) | Roman to Integer | | [代码](https://github.com/zhenzhencai/leetcode/blob/master/JavaScriptCode/013.js) | 简单 |
 | 14 | [最长公共子串](https://leetcode-cn.com/problems/longest-common-prefix/) | Longest Common Prefix | | [代码](https://github.com/zhenzhencai/leetcode/blob/master/JavaScriptCode/014.js) | 简单 |
+| 15 | [三数之和](https://leetcode-cn.com/problems/3sum/) | 3Sum | | [代码](https://github.com/zhenzhencai/leetcode/blob/master/JavaScriptCode/015.js) | 中等 |
+| 16 | [最接近的三数之和](https://leetcode-cn.com/problems/3sum-closest/) | 3Sum Closest | | [代码](https://github.com/zhenzhencai/leetcode/blob/master/JavaScriptCode/016.js) | 中等 |
+| 17 | [电话号码的字母组合](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/) | Letter Combinations of a Phone Number | | [代码](https://github.com/zhenzhencai/leetcode/blob/master/JavaScriptCode/017.js) | 中等 |
+| 18 | [四数之和](https://leetcode-cn.com/problems/4sum/submissions/) | 4Sum | | [代码](https://github.com/zhenzhencai/leetcode/blob/master/JavaScriptCode/018.js) | 中等 |
 
 #
 Copyright (c) 2019-present ZhenzhenCai
