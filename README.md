@@ -26,11 +26,16 @@
 | 14 | [最长公共子串](https://leetcode-cn.com/problems/longest-common-prefix/) | Longest Common Prefix | | [代码](https://github.com/zhenzhencai/leetcode/blob/master/JavaScriptCode/014.js) | 简单 |
 | 15 | [三数之和](https://leetcode-cn.com/problems/3sum/) | 3Sum | | [代码](https://github.com/zhenzhencai/leetcode/blob/master/JavaScriptCode/015.js) | 中等 |
 | 16 | [最接近的三数之和](https://leetcode-cn.com/problems/3sum-closest/) | 3Sum Closest | | [代码](https://github.com/zhenzhencai/leetcode/blob/master/JavaScriptCode/016.js) | 中等 |
-| 17 | [电话号码的字母组合](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/) | Letter Combinations of a Phone Number | | [代码](https://github.com/zhenzhencai/leetcode/blob/master/JavaScriptCode/017.js) | 中等 |
+| 17 | [电话号码的字母组合](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/) | Letter Combinations of a Phone Number | DFS | [代码](https://github.com/zhenzhencai/leetcode/blob/master/JavaScriptCode/017.js) | 中等 |
 | 18 | [四数之和](https://leetcode-cn.com/problems/4sum/submissions/) | 4Sum | | [代码](https://github.com/zhenzhencai/leetcode/blob/master/JavaScriptCode/018.js) | 中等 |
 | 19 | [删除链表倒数第N个...](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/) | Remove Nth Node From End of List | | [代码](https://github.com/zhenzhencai/leetcode/blob/master/JavaScriptCode/019.js) | 中等 |
 | 20 | [有效的括号](https://leetcode-cn.com/problems/valid-parentheses/) | Valid Parentheses | | [代码](https://github.com/zhenzhencai/leetcode/blob/master/JavaScriptCode/020.js) | 简单 |
 | 21 | [合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/) | Merge Two Sorted Lists | | [代码](https://github.com/zhenzhencai/leetcode/blob/master/JavaScriptCode/021.js) | 简单 |
+| 22 | [括号生成](https://leetcode-cn.com/problems/generate-parentheses/) | Generate Parentheses | DFS | [代码](https://github.com/zhenzhencai/leetcode/blob/master/JavaScriptCode/022.js) | 中等 |
+| 24 | [两两交换链表中的节点](https://leetcode-cn.com/problems/swap-nodes-in-pairs/) | Swap Nodes in Pairs | | [代码](https://github.com/zhenzhencai/leetcode/blob/master/JavaScriptCode/024.js) | 中等 |
+| 26 | [删除排序数组重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/) | Remove Duplicates from Sorted Array | | [代码](https://github.com/zhenzhencai/leetcode/blob/master/JavaScriptCode/026.js) | 简单 |
+| 27 | [移除元素](https://leetcode-cn.com/problems/remove-element/) | Remove Element | | [代码](https://github.com/zhenzhencai/leetcode/blob/master/JavaScriptCode/027.js) | 简单 |
+| 28 | [实现strStr()](https://leetcode-cn.com/problems/implement-strstr/) | Implement strStr() | | [代码](https://github.com/zhenzhencai/leetcode/blob/master/JavaScriptCode/028.js) | 简单 |
 
 #
 Copyright (c) 2019-present ZhenzhenCai
