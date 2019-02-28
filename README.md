@@ -36,6 +36,8 @@
 | 26 | [删除排序数组重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/) | Remove Duplicates from Sorted Array | | [代码](https://github.com/zhenzhencai/leetcode/blob/master/JavaScriptCode/026.js) | 简单 |
 | 27 | [移除元素](https://leetcode-cn.com/problems/remove-element/) | Remove Element | | [代码](https://github.com/zhenzhencai/leetcode/blob/master/JavaScriptCode/027.js) | 简单 |
 | 28 | [实现strStr()](https://leetcode-cn.com/problems/implement-strstr/) | Implement strStr() | | [代码](https://github.com/zhenzhencai/leetcode/blob/master/JavaScriptCode/028.js) | 简单 |
+| 31 | [下一个排列](https://leetcode-cn.com/problems/next-permutation/) | Next Permutation | | [代码](https://github.com/zhenzhencai/leetcode/blob/master/JavaScriptCode/031.js) | 中等 |
+| 33 | [搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/) | Search in Rotated Sorted Array | 二分法 | [代码](https://github.com/zhenzhencai/leetcode/blob/master/JavaScriptCode/033.js) | 中等 |
 
 #
 Copyright (c) 2019-present ZhenzhenCai
