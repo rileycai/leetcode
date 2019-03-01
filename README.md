@@ -38,7 +38,7 @@
 | 28 | [实现strStr()](https://leetcode-cn.com/problems/implement-strstr/) | Implement strStr() | | [代码](https://github.com/zhenzhencai/leetcode/blob/master/JavaScriptCode/028.js) | 简单 |
 | 31 | [下一个排列](https://leetcode-cn.com/problems/next-permutation/) | Next Permutation | | [代码](https://github.com/zhenzhencai/leetcode/blob/master/JavaScriptCode/031.js) | 中等 |
 | 33 | [搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/) | Search in Rotated Sorted Array | 二分法 | [代码](https://github.com/zhenzhencai/leetcode/blob/master/JavaScriptCode/033.js) | 中等 |
-| 34 | [排序数组查找元素边界](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | Find First and Last Position of Element in Sorted Array | 二分法 | [代码](https://github.com/zhenzhencai/leetcode/blob/master/JavaScriptCode/034.js) | 中等 |
+| 34 | [排序数组查找元素边界](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | Find First and Last Position of Element in... | 二分法 | [代码](https://github.com/zhenzhencai/leetcode/blob/master/JavaScriptCode/034.js) | 中等 |
 | 35 | [搜索插入位置](https://leetcode-cn.com/problems/search-insert-position/) | Search Insert Position |  | [代码](https://github.com/zhenzhencai/leetcode/blob/master/JavaScriptCode/035.js) | 简单 |
 | 36 | [有效的数独](https://leetcode-cn.com/problems/valid-sudoku/) | Valid Sudoku |  | [代码](https://github.com/zhenzhencai/leetcode/blob/master/JavaScriptCode/036.js) | 中等 |
 #
