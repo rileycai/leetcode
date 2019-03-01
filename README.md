@@ -41,5 +41,10 @@
 | 34 | [排序数组查找元素边界](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | Find First and Last Position of Element in... | 二分法 | [代码](https://github.com/zhenzhencai/leetcode/blob/master/JavaScriptCode/034.js) | 中等 |
 | 35 | [搜索插入位置](https://leetcode-cn.com/problems/search-insert-position/) | Search Insert Position |  | [代码](https://github.com/zhenzhencai/leetcode/blob/master/JavaScriptCode/035.js) | 简单 |
 | 36 | [有效的数独](https://leetcode-cn.com/problems/valid-sudoku/) | Valid Sudoku |  | [代码](https://github.com/zhenzhencai/leetcode/blob/master/JavaScriptCode/036.js) | 中等 |
+| 38 | [报数](https://leetcode-cn.com/problems/count-and-say/) | Count and Say |  | [代码](https://github.com/zhenzhencai/leetcode/blob/master/JavaScriptCode/038.js) | 简单 |
+| 39 | [组合总和](https://leetcode-cn.com/problems/combination-sum/) | Combination Sum |  | [代码](https://github.com/zhenzhencai/leetcode/blob/master/JavaScriptCode/039.js) | 中等 |
+| 40 | [组合总和II](https://leetcode-cn.com/problems/combination-sum-ii/) | Combination Sum II |  | [代码](https://github.com/zhenzhencai/leetcode/blob/master/JavaScriptCode/040.js) | 中等 |
+| 46 | [全排列](https://leetcode-cn.com/problems/permutations/) | Permutations |  | [代码](https://github.com/zhenzhencai/leetcode/blob/master/JavaScriptCode/046.js) | 中等 |
+| 47 | [全排列II](https://leetcode-cn.com/problems/permutations-ii/) | Permutations II |  | [代码](https://github.com/zhenzhencai/leetcode/blob/master/JavaScriptCode/047.js) | 中等 |
 #
 Copyright (c) 2019-present ZhenzhenCai
