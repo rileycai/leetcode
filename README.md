@@ -46,5 +46,8 @@
 | 40 | [组合总和II](https://leetcode-cn.com/problems/combination-sum-ii/) | Combination Sum II | DFS | [代码](https://github.com/zhenzhencai/leetcode/blob/master/JavaScriptCode/040.js) | 中等 |
 | 46 | [全排列](https://leetcode-cn.com/problems/permutations/) | Permutations | DFS | [代码](https://github.com/zhenzhencai/leetcode/blob/master/JavaScriptCode/046.js) | 中等 |
 | 47 | [全排列II](https://leetcode-cn.com/problems/permutations-ii/) | Permutations II | DFS | [代码](https://github.com/zhenzhencai/leetcode/blob/master/JavaScriptCode/047.js) | 中等 |
+| 48 | [旋转图像](https://leetcode-cn.com/problems/rotate-image/) | Rotate Image | | [代码](https://github.com/zhenzhencai/leetcode/blob/master/JavaScriptCode/048.js) | 中等 |
+| 49 | [字母异位词分组](https://leetcode-cn.com/problems/group-anagrams/) | Group Anagrams | | [代码](https://github.com/zhenzhencai/leetcode/blob/master/JavaScriptCode/049.js) | 中等 |
+| 50 | [Pow(x,n)](https://leetcode-cn.com/problems/powx-n/) | Pow(x, n) | 递归 | [代码](https://github.com/zhenzhencai/leetcode/blob/master/JavaScriptCode/050.js) | 中等 |
 #
 Copyright (c) 2019-present ZhenzhenCai
