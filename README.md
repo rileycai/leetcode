@@ -8,6 +8,8 @@
 # leetcode
 力扣（Leetcode）编程题，JavaScript版本。
 
+## [剑指offer JavaScript版本](jsOffer.md)
+
 ---
 
 | 编号 | 中文题目 | 英文题目 |题目描述| JavaScript | 难度 |

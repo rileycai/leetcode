@@ -2,7 +2,7 @@
  * @Author: Zhenzhen Cai 
  * @Date: 2019-04-09 16:01:25 
  * @Last Modified by: Zhenzhen Cai
- * @Last Modified time: 2019-04-09 16:12:44
+ * @Last Modified time: 2019-04-09 16:42:09
  */
 
 
@@ -20,12 +20,12 @@ function swap(arr,i,j){
 }
 
 function duplicate(arr){
-    let res=[];
+    let res=new Set();
     for(let i=0;i<arr.length;i++){
         let val=arr[i];
         while(val!=i){
             if(val===arr[val]){
-                res.push(val);
+                res.add(val);
                 break;
             }
             swap(arr,i,val);
