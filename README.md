@@ -5,8 +5,6 @@
   <br>
 </p>
 
-### [剑指offer JavaScript版本](jsOffer.md)
-
 ---
 
 # leetcode
@@ -53,5 +51,15 @@
 | 48 | [旋转图像](https://leetcode-cn.com/problems/rotate-image/) | Rotate Image | | [代码](https://github.com/zhenzhencai/leetcode/blob/master/JavaScriptCode/048.js) | 中等 |
 | 49 | [字母异位词分组](https://leetcode-cn.com/problems/group-anagrams/) | Group Anagrams | | [代码](https://github.com/zhenzhencai/leetcode/blob/master/JavaScriptCode/049.js) | 中等 |
 | 50 | [Pow(x,n)](https://leetcode-cn.com/problems/powx-n/) | Pow(x, n) | 递归 | [代码](https://github.com/zhenzhencai/leetcode/blob/master/JavaScriptCode/050.js) | 中等 |
-#
+| 53 | [最大子序和](https://leetcode-cn.com/problems/maximum-subarray/) | Maximum Subarray |  | [代码](https://github.com/zhenzhencai/leetcode/blob/master/JavaScriptCode/053.js) | 简单 |
+| 54 | [螺旋矩阵](https://leetcode-cn.com/problems/spiral-matrix/) | Spiral Matrix |  | [代码](https://github.com/zhenzhencai/leetcode/blob/master/JavaScriptCode/054.js) | 中等 |
+| 55 | [跳跃游戏](https://leetcode-cn.com/problems/jump-game/) | Jump Game |  | [代码](https://github.com/zhenzhencai/leetcode/blob/master/JavaScriptCode/055.js) | 中等 |
+
+
+
+----
+
+### [剑指offer JavaScript版本](jsOffer.md)
+
+
 Copyright (c) 2019-present ZhenzhenCai
